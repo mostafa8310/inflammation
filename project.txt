@@ -1,4 +1,2 @@
 Some initial data analysis to identify how inflammation changes time after surgery.
-kkkkkk
-Jane is a Data Scientist is a statistician. We'll need to determine
 who is responsible for what in this project.
