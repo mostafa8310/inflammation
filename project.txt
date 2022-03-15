@@ -2,7 +2,6 @@ Some initial data analysis to identify how inflammation changes time after surge
 who is responsible for what in this project.
 Creating something in Github.
 
-Create a change in local folder.
 
 
 Our first VSC change.
